@@ -1,1 +1,52 @@
-23132165468579654132165419643213516846213
+
+## Ejercicio 2 - Preparación Markdown
+1. Crea un archivo _"README.md"_ en el repositorio
+1. Añade contenido al archivo _"README.md"_ utilizando todos los elementos de la sintaxis de Markdown que hemos estudiado.
+3. Incluye una imagen al documento que sea un enlace a una URL externa.
+4. Crea un directorio llamado images en el repositorio y añade una imagen.
+5. Incluye la imagen que has añadido al repositorio dentro del documento.
+6. Crea un nuevo documento Markdown en el repositorio.
+7. Crea un enlace desde el archivo _"README.md"_ al nuevo documento que acabas de crear.
+
+## Ejercicio 3
+1. Realizar un commit inicial con el comentario:
+> Comenzamos con los ejercicios de Git
+2. Haz un push inicial y sube los cambios al repositorio remoto.
+3. Crear en el repositorio local un fichero llamado _"privado.txt."_
+4. Crear en el repositorio local una carpeta llamada privada.
+5. Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
+
+## Ejercicio 4
+1. Añadir fichero 1.txt
+2. Añadir fichero 1.txt al repositorio local.
+4. Crear un tag v0.1.
+5. Subir el tag v0.1
+6. Subir los cambios al repositorio remoto.
+
+## Ejercicio 5
+1. Preguntar los nombres de usuario de GitHub de 2 de tus compañeros de clase, búscalos, y sigueles.
+2. Seguir los repositorios IAW del resto de tus compañeros.
+3. Añadir una estrella a los repositorios.
+4. Añadir a _"cuentaprofe"_ como colaborador del repositorio IAW
+
+> Tendreis que ir poniendo los comandos que habéis tenido que utilizar durante todos los ejercicios y las explicaciones y capturas de pantalla que consideréis necesarias en el informe.
+
+## Ejercicio 6
+1. Crear una rama v0.2.
+2. Posiciona tu carpeta de trabajo en esta rama.
+3. Añadir un _"fichero 2.txt"_ en la rama v0.2.
+4. Crear rama remota v0.2
+5. Subir los cambios al repositorio remoto.
+6. Merge directo
+7. Posicionarse en la rama master.
+8. Hacer un merge de la rama v0.2 en la rama master.
+
+## Ejercicio 7
+1. En la rama master poner Hola en el fichero 1.txt y hacer commit.
+2. Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit.
+3. Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2
+4. Listar las ramas con merge y las ramas sin merge.
+5. Arreglar el conflicto anterior y hacer un commit.
+6. Crear un tag v0.2
+7. Borrar la rama v0.2
+8. Listar los distintos commits con sus ramas y sus tags.
